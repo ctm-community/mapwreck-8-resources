@@ -10,6 +10,14 @@
         },
         {
             "type": "single",
+            "resource": "map_exclusive:blocks/gato"
+        },
+        {
+            "type": "single",
+            "resource": "map_exclusive:blocks/lapis/granite"
+        },
+        {
+            "type": "single",
             "resource": "inasa:coas/ender_pearl"
         },
         {
