@@ -10,6 +10,33 @@
         },
         {
             "type": "single",
+            "resource": "map_exclusive:blocks/gato"
+        },
+        {
+            "type": "single",
+            "resource": "map_exclusive:blocks/lapis/granite"
+        },
+        {
+            "type": "single",
+<<<<<<< HEAD
+            "resource": "map_exclusive:items/lexica_cartographia/main"
+        },
+        {
+            "type": "single",
+            "resource": "map_exclusive:items/lexica_cartographia/text"
+        },
+        {
+            "type": "single",
+            "resource": "map_exclusive:items/roses_tinted_glasses"
+        },
+        {
+            "type": "single",
+            "resource": "map_exclusive:items/wunk_of_undying"
+        },
+        {
+            "type": "single",
+=======
+>>>>>>> 49e69364a19211c29ab15b4e9b5595c41ee53030
             "resource": "inasa:coas/ender_pearl"
         },
         {
